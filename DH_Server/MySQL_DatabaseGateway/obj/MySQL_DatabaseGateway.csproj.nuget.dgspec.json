@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\MySQL_DatabaseGateway\\MySQL_DatabaseGateway.csproj": {}
+  },
+  "projects": {
+    "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\Entities_Component.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\Entities_Component.csproj",
+        "projectName": "Entities_Component",
+        "projectPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\Entities_Component.csproj",
+        "packagesPath": "C:\\Users\\daxxi\\.nuget\\packages\\",
+        "outputPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daxxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\MySQL_DatabaseGateway\\MySQL_DatabaseGateway.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\MySQL_DatabaseGateway\\MySQL_DatabaseGateway.csproj",
+        "projectName": "MySQL_DatabaseGateway",
+        "projectPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\MySQL_DatabaseGateway\\MySQL_DatabaseGateway.csproj",
+        "packagesPath": "C:\\Users\\daxxi\\.nuget\\packages\\",
+        "outputPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\MySQL_DatabaseGateway\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daxxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\Entities_Component.csproj": {
+                "projectPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\Entities_Component.csproj"
+              },
+              "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\UseCases_Component\\UseCases_Component.csproj": {
+                "projectPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\UseCases_Component\\UseCases_Component.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\UseCases_Component\\UseCases_Component.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\UseCases_Component\\UseCases_Component.csproj",
+        "projectName": "UseCases_Component",
+        "projectPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\UseCases_Component\\UseCases_Component.csproj",
+        "packagesPath": "C:\\Users\\daxxi\\.nuget\\packages\\",
+        "outputPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\UseCases_Component\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daxxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\Entities_Component.csproj": {
+                "projectPath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\Entities_Component.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

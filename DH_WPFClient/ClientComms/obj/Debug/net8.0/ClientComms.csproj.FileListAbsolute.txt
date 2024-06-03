@@ -1,0 +1,2 @@
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_WPFClient\ClientComms\obj\Debug\net8.0\ClientComms.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_WPFClient\ClientComms\obj\Debug\net8.0\ClientComms.csproj.CoreCompileInputs.cache

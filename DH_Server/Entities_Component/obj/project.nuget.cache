@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkOhQlwV2tHf3jmbuaYFO7zrGd/cfqmS+eU2+WJMtMPQaYXsBJUJvAjRo1i7qjQVdK0n/K2rofxCLYfW0yBt1w==",
+  "success": true,
+  "projectFilePath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_Server\\Entities_Component\\Entities_Component.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daxxi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\daxxi\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

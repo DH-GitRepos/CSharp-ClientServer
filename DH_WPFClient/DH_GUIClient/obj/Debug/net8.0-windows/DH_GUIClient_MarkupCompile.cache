@@ -1,0 +1,20 @@
+﻿DH_GUIClient
+
+
+winexe
+C#
+.cs
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_WPFClient\DH_GUIClient\obj\Debug\net8.0-windows\
+DH_GUIClient
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_WPFClient\DH_GUIClient\App.xaml
+8-31622714
+
+20-1502528985
+2001889640888
+BorrowBookWindow.xaml;MainWindow.xaml;MultiClientWindow.xaml;RenewLoanWindow.xaml;ReturnBookWindow.xaml;ViewAllBooks.xaml;ViewAllLoans.xaml;ViewAllMembers.xaml;
+splashscreenmain.png
+False
+

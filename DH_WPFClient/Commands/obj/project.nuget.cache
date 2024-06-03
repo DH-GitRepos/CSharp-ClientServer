@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgwbLQtfBsxLhTEZdTkFYjRXBZqQrVHm8jcUdmSsE1222+0jHOXV+z1qO++E/esA9SqfLWYHI3iiL9gp6cAGhA==",
+  "success": true,
+  "projectFilePath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_WPFClient\\Commands\\Commands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daxxi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\daxxi\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

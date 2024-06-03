@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRoJK860F1kkL6ugrfFXvVjJYy02JyvUKi6bfFKtGO/d0KPuItYT6xTcClhxzq85NGjkyAMeWlAz7M84P31boQ==",
+  "success": true,
+  "projectFilePath": "E:\\UNI\\01-LEARNING MATERIALS\\L6\\CCCP - COMP63038\\Assessments\\Assessment 02\\Application\\03_Assignment2_T3\\DH_WPFClient\\DH_GUIClient\\DH_GUIClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daxxi\\.nuget\\packages\\devexpress.data\\23.2.5\\devexpress.data.23.2.5.nupkg.sha512",
+    "C:\\Users\\daxxi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\daxxi\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\daxxi\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

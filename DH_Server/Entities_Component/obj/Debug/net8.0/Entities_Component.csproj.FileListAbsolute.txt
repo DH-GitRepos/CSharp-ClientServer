@@ -1,0 +1,13 @@
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\bin\Debug\net8.0\Entities_Component.exe
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\bin\Debug\net8.0\Entities_Component.dll.config
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\bin\Debug\net8.0\Entities_Component.deps.json
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\bin\Debug\net8.0\Entities_Component.runtimeconfig.json
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\bin\Debug\net8.0\Entities_Component.dll
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\bin\Debug\net8.0\Entities_Component.pdb
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\obj\Debug\net8.0\Entities_Component.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\obj\Debug\net8.0\Entities_Component.csproj.CoreCompileInputs.cache
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\obj\Debug\net8.0\Entities_Component.dll
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\obj\Debug\net8.0\refint\Entities_Component.dll
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\obj\Debug\net8.0\Entities_Component.pdb
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\obj\Debug\net8.0\Entities_Component.genruntimeconfig.cache
+E:\UNI\01-LEARNING MATERIALS\L6\CCCP - COMP63038\Assessments\Assessment 02\Application\03_Assignment2_T3\DH_Server\Entities_Component\obj\Debug\net8.0\ref\Entities_Component.dll
